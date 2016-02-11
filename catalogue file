@@ -1,0 +1,43 @@
+<html>
+<head>
+<title> catalogue</title>
+</head>
+<body>
+<table border="1" width="100%" height="100%">
+<font color="green" size="10"><h2 align="center">Catalogue</h2>
+</font>
+<tr align="center">
+<th>CoverPage</th>
+<th>Details</th>
+<th>Price</th>
+<th>Cart Button</th>
+</tr>
+<tr align="center">
+<td>
+<img src="1.jpg" height="300" width="400"></img>
+</td>
+<td> AuthorName:Pearson<br><br>
+publisher:Jantha<br></td>
+<td>Price:$360/-</td>
+<td><a href="cart.html" target="_blank">
+<img src="Book.jpg" height="300" width="400">
+</img>
+</a>
+
+</td>
+</tr>
+<tr align="center">
+<td>
+<img src="Book2.jpg" height="300" width="400">
+</img>
+</td>
+<td> AuthorName:Tonald<br><br>
+publisher:Zoom<br></td>
+<td>Price:$560/-</td>
+<td><a href="cart.html" target="_blank">
+<img src="Book3.jpg" height="300" width="400">
+</td>
+</tr>
+</table>
+</body>
+</html>
